@@ -1,4 +1,4 @@
-<keymap version="1" name="Emacs copy" parent="Emacs">
+<keymap version="1" name="Emacs for tiny" parent="Emacs">
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
