@@ -1,0 +1,17 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Console.Execute.Multiline" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Groovy.Shell.Execute" />
+  <action id="KotlinShellExecute" />
+  <action id="OpenElementInNewWindow" />
+  <action id="ViewSource" />
+</keymap>
