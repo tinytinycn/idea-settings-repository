@@ -46,8 +46,12 @@
           <option name="url" value="https://gitee.com/l-weiwei/Spiderman2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://39.108.189.134:11000/data-mining-group/yuqing-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/yuqing1130" />
   </component>
 </application>
