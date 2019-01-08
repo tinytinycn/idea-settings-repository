@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/hendisantika/spring-boot-adminlte.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://39.108.189.134:11000/tinytinycn/yuqing-frontend-mgr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
