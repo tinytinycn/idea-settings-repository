@@ -82,8 +82,12 @@
           <option name="url" value="http://39.108.189.134:11000/data-mining-group/abbs_seg.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Jay-Goo/M3U8Downloader.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\911\IdeaProjects" />
   </component>
 </application>
