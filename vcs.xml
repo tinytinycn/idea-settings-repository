@@ -130,8 +130,12 @@
           <option name="url" value="http://218.77.58.16:11000/spider/mastercrawlerdjango.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://218.77.58.16:11000/tinytinycn/textmail-backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\911\IdeaProjects" />
   </component>
 </application>
